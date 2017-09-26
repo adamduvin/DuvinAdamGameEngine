@@ -17,6 +17,7 @@
 #include <vector>
 #include <time.h>
 
+//stuff
 GLfloat Engine::prevTime;
 GLfloat Engine::curTime;
 GLfloat Engine::deltaTime;
